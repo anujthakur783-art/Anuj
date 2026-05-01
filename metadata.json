@@ -1,0 +1,12 @@
+{
+  "name": "Sabjiwala Express",
+  "description": "A fresh grocery delivery app with real-time tracking and UPI payments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time Tracking",
+    "UPI Payments",
+    "AI Freshness Assistant"
+  ]
+}
